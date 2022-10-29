@@ -4,7 +4,7 @@
 - 💪 Mục tiêu năm 2022: Front-End, Piano, 日本語(N1)
 - ⭐ Sở thích: Thể thao, Nghe nhạc, Đọc tiểu thuyết trinh thám
 
----
+<img alt="gif" src="https://raw.githubusercontent.com/PhucVan2103/ThanhLa1802/main/.github/assets/coding-freak.gif"/>
 
 ### 📫 Thông tin liên lạc
 - Facebook: [PHUC VAN](https://www.facebook.com/phuc.van.714)
